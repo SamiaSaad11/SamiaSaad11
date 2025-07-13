@@ -1,3 +1,9 @@
+![](assets/Bottom_up.svg)
+
+![](assets/header.png)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230078D4&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B,+I'm+Samia+Saad;Machine+Learning+Engineer+%7C+Data+Analytics+Expert;Python+%7C+R+%7C+SQL+%7C+AWS+%7C+GCP;PMP+Certified+%7C+Public+Trust+Cleared;Transforming+data+into+actionable+insights)](https://github.com/Samiafazal)
+
 # 👩‍💻 Samia Saad
 
 **Machine Learning Engineer | Data Analytics & Engineering Expert | PMP Certified | Public Trust Cleared**  

@@ -35,6 +35,26 @@ With 7+ years of experience delivering data-driven solutions across industries, 
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamiaSaad11&theme=algolia&show_icons=true&hide_border=false&count_private=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SamiaSaad11&theme=algolia&show_icons=true&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=SamiaSaad11&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 ## 💡 Featured Projects
 
 ### 📈 Bank Marketing Analysis – *March 2025*  
